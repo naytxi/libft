@@ -85,7 +85,7 @@ Non-standard functions
     ft_ftoa_rnd	- convert float to ASCII string.
 
 
-<h2>🔍HOW TO WORKS</h2>
+<h2>🔍HOW IT WORK</h2>
 
 .c Files
 
